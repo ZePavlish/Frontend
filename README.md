@@ -32,19 +32,8 @@
    ```
 2. Откройте `index.html` в браузере.
 
-## Особенности реализации
-
-- Семантическая разметка: `<header>`, `<main>`, `<footer>`, `<section>`, `<article>`, `<aside>`, `<nav>`
-- Кнопки — только через `<button>`
-- Все изображения с атрибутом `alt`
-- Классы по БЭМ: `block__element--modifier`
-- Медиа-запросы для трёх брейкпоинтов
-- Курсор pointer на всех кликабельных элементах
-- Доступность: `aria-label`, подписи для форм
-- SVG-иконки подключаются как отдельные файлы
-
 ## Ссылки
 
-- [Макет Figma](https://www.figma.com/file/NsD6GG3ZWD29ZWzkCMUkjU/Youtalk---Blog?t=uSFxX1tmP6DXIxIn-1)
+- [Макет Фигма](https://www.figma.com/file/NsD6GG3ZWD29ZWzkCMUkjU/Youtalk---Blog?t=uSFxX1tmP6DXIxIn-1)
 - [Статья о доступности HTML](https://developer.mozilla.org/ru/docs/Learn/Accessibility/HTML)
 - [SVG-иконки в CSS](https://webcademy.ru/blog/47/)
